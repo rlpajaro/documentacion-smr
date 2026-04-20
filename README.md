@@ -28,3 +28,5 @@ C --> D[Fin]
 ## Autor
 
 Nombre del alumno
+
+[//]: # (<script type="module" src="./mermaid-init.js"></script>)
