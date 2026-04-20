@@ -14,17 +14,6 @@ Esta documentación describe la instalación de un sistema básico.
 
 ---
 
-## Diagrama de Flujo
-
-```mermaid
-flowchart TD
-A[Inicio] --> B[Instalar sistema]
-B --> C[Configurar red]
-C --> D[Fin]
-```
-
----
-
 ## Autor
 
 Nombre del alumno
