@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Este documento describe la instalación de un sistema básico.
+Este documento describe la instalación de un sistema básico. 
 
 ---
 
